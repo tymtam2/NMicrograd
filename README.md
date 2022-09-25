@@ -1,6 +1,6 @@
 # NMicrograd
 
-This repo is contains C# reimplementation of https://github.com/karpathy/micrograd; for fun.
+This repo is contains a C# reimplementation of https://github.com/karpathy/micrograd; for fun.
 
 One way to use it to:
 
